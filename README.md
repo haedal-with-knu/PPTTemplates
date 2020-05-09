@@ -10,18 +10,20 @@
 공식적으로 베포할 교육자료의 경우 `16:9`로 만들면  
 준회원 및 트랙원들이 실습자료로 활용하기 편할 듯 합니다.  
 
-해달 유튜브 썸네일 제작을 위한 키노트도 있습니다.  
+해달 유튜브 썸네일 제작을 위한 Keynote도 있습니다.  
 PPT가 필요해지면 추후 제작하도록 하겠습니다.
 
 운영진들의 경우 맥과 윈도우 모두 사용하고 있어,  
-`키노트`와 `PPT` 모두 제작해두었습니다.  
+`Keynote`와 `PPT` 모두 제작해두었습니다.  
 
-* [광고 PPT 템플릿](Haedal_Advertisement_Black(4_3).pptx), [광고 키노트 템플릿](Haedal_Advertisement_Black(4_3).key)
-* [교육 PPT 템플릿](Haedal_Education_White(4_3).pptx), [광고 키노트 템플릿](Haedal_Education_White(4_3).key)
-* [행사 PPT 템플릿](Haedal_Event_Yellow(4_3).pptx), [행사 키노트 템플릿](Haedal_Event_Yellow(4_3).key)
-* [유튜브 썸네일 키노트](Haedal_YoutubeThumbnail_Yellow(16_9).key)
+* [광고 PPT 템플릿(4:3)](Haedal_Advertisement_Black(4_3).pptx), [광고 Keynote 템플릿(4:3)](Haedal_Advertisement_Black(4_3).key)
+* [교육 PPT 템플릿(4:3)](Haedal_Education_White(4_3).pptx), [교육 Keynote 템플릿(4:3)](Haedal_Education_White(4_3).key)
+* [행사 PPT 템플릿(4:3)](Haedal_Event_Yellow(4_3).pptx), [행사 Keynote 템플릿(4:3)](Haedal_Event_Yellow(4_3).key)
+* [유튜브 썸네일 Keynote(16:9)](Haedal_YoutubeThumbnail_Yellow(16_9).key)
 
-# 광고 템플릿
+# 광고 템플릿(`4:3`)
+> [광고 PPT 템플릿(4:3)](Haedal_Advertisement_Black(4_3).pptx), [광고 Keynote 템플릿(4:3)](Haedal_Advertisement_Black(4_3).key)  
+
 ![Haedal_Advertisement_Black(4_3).001.jpeg](Haedal_Advertisement_Black(4_3)/Haedal_Advertisement_Black(4_3)_001.jpeg)
 ![Haedal_Advertisement_Black(4_3).002.jpeg](Haedal_Advertisement_Black(4_3)/Haedal_Advertisement_Black(4_3)_002.jpeg)
 ![Haedal_Advertisement_Black(4_3).003.jpeg](Haedal_Advertisement_Black(4_3)/Haedal_Advertisement_Black(4_3)_003.jpeg)
@@ -37,3 +39,43 @@ PPT가 필요해지면 추후 제작하도록 하겠습니다.
 ![Haedal_Advertisement_Black(4_3).013.jpeg](Haedal_Advertisement_Black(4_3)/Haedal_Advertisement_Black(4_3)_013.jpeg)
 ![Haedal_Advertisement_Black(4_3).014.jpeg](Haedal_Advertisement_Black(4_3)/Haedal_Advertisement_Black(4_3)_014.jpeg)
 ![Haedal_Advertisement_Black(4_3).015.jpeg](Haedal_Advertisement_Black(4_3)/Haedal_Advertisement_Black(4_3)_015.jpeg)
+
+# 교육 템플릿(`4:3`)
+> 교육 PPT 템플릿(4:3)](Haedal_Education_White(4_3).pptx), [교육 Keynote 템플릿(4:3)](Haedal_Education_White(4_3).key)  
+
+![Haedal_Education_White(4_3)_001.jpeg](Haedal_Education_White(4_3)/Haedal_Education_White(4_3)_001.jpeg)
+![Haedal_Education_White(4_3)_002.jpeg](Haedal_Education_White(4_3)/Haedal_Education_White(4_3)_002.jpeg)
+![Haedal_Education_White(4_3)_003.jpeg](Haedal_Education_White(4_3)/Haedal_Education_White(4_3)_003.jpeg)
+![Haedal_Education_White(4_3)_004.jpeg](Haedal_Education_White(4_3)/Haedal_Education_White(4_3)_004.jpeg)
+![Haedal_Education_White(4_3)_005.jpeg](Haedal_Education_White(4_3)/Haedal_Education_White(4_3)_005.jpeg)
+![Haedal_Education_White(4_3)_006.jpeg](Haedal_Education_White(4_3)/Haedal_Education_White(4_3)_006.jpeg)
+![Haedal_Education_White(4_3)_007.jpeg](Haedal_Education_White(4_3)/Haedal_Education_White(4_3)_007.jpeg)
+![Haedal_Education_White(4_3)_008.jpeg](Haedal_Education_White(4_3)/Haedal_Education_White(4_3)_008.jpeg)
+![Haedal_Education_White(4_3)_009.jpeg](Haedal_Education_White(4_3)/Haedal_Education_White(4_3)_009.jpeg)
+
+# 행사 템플릿(`4:3`)
+> [행사 PPT 템플릿(4:3)](Haedal_Event_Yellow(4_3).pptx), [행사 Keynote 템플릿(4:3)](Haedal_Event_Yellow(4_3).key)  
+
+![Haedal_Event_Yellow(4_3)_001.jpeg](Haedal_Event_Yellow(4_3)/Haedal_Event_Yellow(4_3)_001.jpeg)
+![Haedal_Event_Yellow(4_3)_002.jpeg](Haedal_Event_Yellow(4_3)/Haedal_Event_Yellow(4_3)_002.jpeg)
+![Haedal_Event_Yellow(4_3)_003.jpeg](Haedal_Event_Yellow(4_3)/Haedal_Event_Yellow(4_3)_003.jpeg)
+![Haedal_Event_Yellow(4_3)_004.jpeg](Haedal_Event_Yellow(4_3)/Haedal_Event_Yellow(4_3)_004.jpeg)
+![Haedal_Event_Yellow(4_3)_005.jpeg](Haedal_Event_Yellow(4_3)/Haedal_Event_Yellow(4_3)_005.jpeg)
+![Haedal_Event_Yellow(4_3)_006.jpeg](Haedal_Event_Yellow(4_3)/Haedal_Event_Yellow(4_3)_006.jpeg)
+![Haedal_Event_Yellow(4_3)_007.jpeg](Haedal_Event_Yellow(4_3)/Haedal_Event_Yellow(4_3)_007.jpeg)
+![Haedal_Event_Yellow(4_3)_008.jpeg](Haedal_Event_Yellow(4_3)/Haedal_Event_Yellow(4_3)_008.jpeg)
+![Haedal_Event_Yellow(4_3)_009.jpeg](Haedal_Event_Yellow(4_3)/Haedal_Event_Yellow(4_3)_009.jpeg)
+![Haedal_Event_Yellow(4_3)_010.jpeg](Haedal_Event_Yellow(4_3)/Haedal_Event_Yellow(4_3)_010.jpeg)
+![Haedal_Event_Yellow(4_3)_011.jpeg](Haedal_Event_Yellow(4_3)/Haedal_Event_Yellow(4_3)_011.jpeg)
+![Haedal_Event_Yellow(4_3)_012.jpeg](Haedal_Event_Yellow(4_3)/Haedal_Event_Yellow(4_3)_012.jpeg)
+![Haedal_Event_Yellow(4_3)_013.jpeg](Haedal_Event_Yellow(4_3)/Haedal_Event_Yellow(4_3)_013.jpeg)
+![Haedal_Event_Yellow(4_3)_014.jpeg](Haedal_Event_Yellow(4_3)/Haedal_Event_Yellow(4_3)_014.jpeg)
+![Haedal_Event_Yellow(4_3)_015.jpeg](Haedal_Event_Yellow(4_3)/Haedal_Event_Yellow(4_3)_015.jpeg)
+
+# 유튜브 썸네일(`16:9`)
+![Haedal_YoutubeThumbnail_Yellow(16_9)_001.jpeg](Haedal_YoutubeThumbnail_Yellow(16_9)/Haedal_YoutubeThumbnail_Yellow(16_9)_001.jpeg)
+![Haedal_YoutubeThumbnail_Yellow(16_9)_002.jpeg](Haedal_YoutubeThumbnail_Yellow(16_9)/Haedal_YoutubeThumbnail_Yellow(16_9)_002.jpeg)
+![Haedal_YoutubeThumbnail_Yellow(16_9)_003.jpeg](Haedal_YoutubeThumbnail_Yellow(16_9)/Haedal_YoutubeThumbnail_Yellow(16_9)_003.jpeg)
+
+# 교육 템플릿(`16:9`)
+![Haedal_Education_White(16_9)_001.jpeg](Haedal_Education_White(16_9)/Haedal_Education_White(16_9)_001.jpeg)
