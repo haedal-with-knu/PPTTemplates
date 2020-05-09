@@ -16,10 +16,24 @@ PPT가 필요해지면 추후 제작하도록 하겠습니다.
 운영진들의 경우 맥과 윈도우 모두 사용하고 있어,  
 `키노트`와 `PPT` 모두 제작해두었습니다.  
 
-* [광고 PPT 템플릿](Haedal_Advertisement_Black(4:3).pptx), [광고 키노트 템플릿](Haedal_Advertisement_Black(4:3).key)
-* [교육 PPT 템플릿](Haedal_Education_White(4:3).pptx), [광고 키노트 템플릿](Haedal_Education_White(4:3).key)
-* [행사 PPT 템플릿](Haedal_Event_Yellow(4:3).pptx), [행사 키노트 템플릿](Haedal_Event_Yellow(4:3).key)
-* [유튜브 썸네일 키노트](Haedal_YoutubeThumbnail_Yellow(16:9).key)
+* [광고 PPT 템플릿](Haedal_Advertisement_Black(4_3).pptx), [광고 키노트 템플릿](Haedal_Advertisement_Black(4_3).key)
+* [교육 PPT 템플릿](Haedal_Education_White(4_3).pptx), [광고 키노트 템플릿](Haedal_Education_White(4_3).key)
+* [행사 PPT 템플릿](Haedal_Event_Yellow(4_3).pptx), [행사 키노트 템플릿](Haedal_Event_Yellow(4_3).key)
+* [유튜브 썸네일 키노트](Haedal_YoutubeThumbnail_Yellow(16_9).key)
 
 # 광고 템플릿
-![Haedal_Advertisement_Black(4:3).001.jpeg](Haedal_Advertisement_Black(4_3)/Haedal_Advertisement_Black(4_3)_001.jpeg)
+![Haedal_Advertisement_Black(4_3).001.jpeg](Haedal_Advertisement_Black(4_3)/Haedal_Advertisement_Black(4_3)_001.jpeg)
+![Haedal_Advertisement_Black(4_3).002.jpeg](Haedal_Advertisement_Black(4_3)/Haedal_Advertisement_Black(4_3)_002.jpeg)
+![Haedal_Advertisement_Black(4_3).003.jpeg](Haedal_Advertisement_Black(4_3)/Haedal_Advertisement_Black(4_3)_003.jpeg)
+![Haedal_Advertisement_Black(4_3).004.jpeg](Haedal_Advertisement_Black(4_3)/Haedal_Advertisement_Black(4_3)_004.jpeg)
+![Haedal_Advertisement_Black(4_3).005.jpeg](Haedal_Advertisement_Black(4_3)/Haedal_Advertisement_Black(4_3)_005.jpeg)
+![Haedal_Advertisement_Black(4_3).006.jpeg](Haedal_Advertisement_Black(4_3)/Haedal_Advertisement_Black(4_3)_006.jpeg)
+![Haedal_Advertisement_Black(4_3).007.jpeg](Haedal_Advertisement_Black(4_3)/Haedal_Advertisement_Black(4_3)_007.jpeg)
+![Haedal_Advertisement_Black(4_3).008.jpeg](Haedal_Advertisement_Black(4_3)/Haedal_Advertisement_Black(4_3)_008.jpeg)
+![Haedal_Advertisement_Black(4_3).009.jpeg](Haedal_Advertisement_Black(4_3)/Haedal_Advertisement_Black(4_3)_009.jpeg)
+![Haedal_Advertisement_Black(4_3).010.jpeg](Haedal_Advertisement_Black(4_3)/Haedal_Advertisement_Black(4_3)_010.jpeg)
+![Haedal_Advertisement_Black(4_3).011.jpeg](Haedal_Advertisement_Black(4_3)/Haedal_Advertisement_Black(4_3)_011.jpeg)
+![Haedal_Advertisement_Black(4_3).012.jpeg](Haedal_Advertisement_Black(4_3)/Haedal_Advertisement_Black(4_3)_012.jpeg)
+![Haedal_Advertisement_Black(4_3).013.jpeg](Haedal_Advertisement_Black(4_3)/Haedal_Advertisement_Black(4_3)_013.jpeg)
+![Haedal_Advertisement_Black(4_3).014.jpeg](Haedal_Advertisement_Black(4_3)/Haedal_Advertisement_Black(4_3)_014.jpeg)
+![Haedal_Advertisement_Black(4_3).015.jpeg](Haedal_Advertisement_Black(4_3)/Haedal_Advertisement_Black(4_3)_015.jpeg)
