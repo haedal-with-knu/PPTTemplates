@@ -20,6 +20,7 @@ PPT가 필요해지면 추후 제작하도록 하겠습니다.
 * [교육 PPT 템플릿(4:3)](Haedal_Education_White(4_3).pptx), [교육 Keynote 템플릿(4:3)](Haedal_Education_White(4_3).key)
 * [행사 PPT 템플릿(4:3)](Haedal_Event_Yellow(4_3).pptx), [행사 Keynote 템플릿(4:3)](Haedal_Event_Yellow(4_3).key)
 * [유튜브 썸네일 Keynote(16:9)](Haedal_YoutubeThumbnail_Yellow(16_9).key)
+* [교육 PPT 템플릿(16:9)](Haedal_Education_White(16_9).pptx), [교육 Keynote 템플릿(16:9)](Haedal_Education_White(16_9).key)
 
 # 광고 템플릿(`4:3`)
 > [광고 PPT 템플릿(4:3)](Haedal_Advertisement_Black(4_3).pptx), [광고 Keynote 템플릿(4:3)](Haedal_Advertisement_Black(4_3).key)  
@@ -41,7 +42,7 @@ PPT가 필요해지면 추후 제작하도록 하겠습니다.
 ![Haedal_Advertisement_Black(4_3).015.jpeg](Haedal_Advertisement_Black(4_3)/Haedal_Advertisement_Black(4_3)_015.jpeg)
 
 # 교육 템플릿(`4:3`)
-> 교육 PPT 템플릿(4:3)](Haedal_Education_White(4_3).pptx), [교육 Keynote 템플릿(4:3)](Haedal_Education_White(4_3).key)  
+> [교육 PPT 템플릿(4:3)](Haedal_Education_White(4_3).pptx), [교육 Keynote 템플릿(4:3)](Haedal_Education_White(4_3).key)  
 
 ![Haedal_Education_White(4_3)_001.jpeg](Haedal_Education_White(4_3)/Haedal_Education_White(4_3)_001.jpeg)
 ![Haedal_Education_White(4_3)_002.jpeg](Haedal_Education_White(4_3)/Haedal_Education_White(4_3)_002.jpeg)
@@ -73,9 +74,13 @@ PPT가 필요해지면 추후 제작하도록 하겠습니다.
 ![Haedal_Event_Yellow(4_3)_015.jpeg](Haedal_Event_Yellow(4_3)/Haedal_Event_Yellow(4_3)_015.jpeg)
 
 # 유튜브 썸네일(`16:9`)
+> [유튜브 썸네일 Keynote(16:9)](Haedal_YoutubeThumbnail_Yellow(16_9).key)  
+
 ![Haedal_YoutubeThumbnail_Yellow(16_9)_001.jpeg](Haedal_YoutubeThumbnail_Yellow(16_9)/Haedal_YoutubeThumbnail_Yellow(16_9)_001.jpeg)
 ![Haedal_YoutubeThumbnail_Yellow(16_9)_002.jpeg](Haedal_YoutubeThumbnail_Yellow(16_9)/Haedal_YoutubeThumbnail_Yellow(16_9)_002.jpeg)
 ![Haedal_YoutubeThumbnail_Yellow(16_9)_003.jpeg](Haedal_YoutubeThumbnail_Yellow(16_9)/Haedal_YoutubeThumbnail_Yellow(16_9)_003.jpeg)
 
 # 교육 템플릿(`16:9`)
+> [교육 PPT 템플릿(16:9)](Haedal_Education_White(16_9).pptx), [교육 Keynote 템플릿(16:9)](Haedal_Education_White(16_9).key)  
+
 ![Haedal_Education_White(16_9)_001.jpeg](Haedal_Education_White(16_9)/Haedal_Education_White(16_9)_001.jpeg)
