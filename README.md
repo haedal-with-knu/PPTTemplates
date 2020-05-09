@@ -22,6 +22,4 @@ PPT가 필요해지면 추후 제작하도록 하겠습니다.
 * [유튜브 썸네일 키노트](Haedal_YoutubeThumbnail_Yellow(16:9).key)
 
 # 광고 템플릿
-![Haedal_Advertisement_Black(4:3).001.jpeg](Haedal_Advertisement_Black(4:3)/Haedal_Advertisement_Black(4:3)_001.jpeg)
-![Haedal_Advertisement_Black(4:3).002.jpeg](Haedal_Advertisement_Black(4:3)/Haedal_Advertisement_Black(4:3).002.jpeg)
-![Haedal_Advertisement_Black(4:3).003.jpeg](Haedal_Advertisement_Black(4:3)/Haedal_Advertisement_Black(4:3).003.jpeg)
+![Haedal_Advertisement_Black(4:3).001.jpeg](Haedal_Advertisement_Black(4_3)/Haedal_Advertisement_Black(4_3)_001.jpeg)
